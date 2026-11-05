@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Node.js Demo App – GitHub Actions CI/CD
 
 ## Project objective
